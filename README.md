@@ -9,6 +9,3 @@ I'm a data analyst in training and eager to use my skills in working for an orga
 Python, R, SQL, HTML, CSS, Markdown
 
   
-# Machine Learning & Exploratory Data Analysis
-
-A group of datasets where eda and machine learning techniques have been used.
