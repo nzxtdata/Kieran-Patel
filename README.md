@@ -1,5 +1,5 @@
 
-## 🚀 About Me - Kieran Patel
+## 🚀 About Me
 I'm a data analyst in training and eager to use my skills in working for an organisation like yours.
 
 - [@KieranP](https://www.linkedin.com/in/kieranpdata/)
